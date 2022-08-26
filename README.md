@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Zekarias Behailu   <[Anteneh2121](https://ZekariasBehailu)>
-* Dagim Ourgie <[sentayehut](https://github.com/Dcode3244)>
+* Zekarias Behailu <[ZekaraisBehailu](https://ZekariasBehailu)>
+* Dagim Ourgie <[Dcode3244](https://github.com/Dcode3244)>
 
 ## License :lock:
 
